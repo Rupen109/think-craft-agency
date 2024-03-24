@@ -8725,7 +8725,7 @@ p.checkout-coupon input[type=text]:focus {
 .footer-bg {
   position: relative;
   background-size: cover;
-  padding-bottom: 30px;
+  padding-bottom: 130px;
 }
 .footer-bg::after {
   content: "";
