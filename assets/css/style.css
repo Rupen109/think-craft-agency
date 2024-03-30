@@ -8729,6 +8729,12 @@ p.checkout-coupon input[type=text]:focus {
   background-size: cover;
   padding-bottom: 30px;
 }
+
+.ftr-custm{
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer-bg::after {
   content: "";
   position: absolute;
